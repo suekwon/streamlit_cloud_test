@@ -53,10 +53,6 @@ chat_response = client.chat.complete(
             "role": "user",
             "content": "고양이: 동물 오렌지: 과일 토마토: 채소 비둘기: ",
         },
-        {
-            "role": "user",
-            "content": "파이썬은 재밌어를 영어로 변역해줘.",
-        },
     ]
 )
 
